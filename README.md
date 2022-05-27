@@ -1,4 +1,5 @@
 Autor: Maria Jesus Borrego Vargas
+
 Como usar la aplicación:
  - Ejecutar el main.
  - Tiene como ejemplo algunas notas para que puedas probar el modificar, buscar y mostrar todas las notas.
